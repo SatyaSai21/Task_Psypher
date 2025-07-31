@@ -48,7 +48,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## Deployment Link:
-https://task-psypher-cp3t.vercel.app/
+https://task-psypher-cp3t-git-main-satyasais-projects-cc16c252.vercel.app
 
 ## My Details: 
 ### Gmail: satyasai21e@gmail.com
