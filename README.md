@@ -1,7 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# 🎉 Tier-Based Event Showcase
 
+A responsive and elegant web application that allows logged-in users to view a list of show events based on their user tier (`Free`, `Silver`, `Gold`, `Platinum`). A user can only view events available to their tier or any lower tier.
+
+## 🚀 Tech Stack
+
+- **Frontend**: [Next.js 14 (App Router)](https://nextjs.org/docs/app)
+- **Authentication**: [Clerk.dev](https://clerk.dev)
+- **Database**: [Supabase (PostgreSQL)](https://supabase.com/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+
+---
+
+## 🔐 Features
+
+- ✅ User authentication via Clerk (Sign in / Sign out)
+- ✅ Tier-based event filtering (Free ≤ Silver ≤ Gold ≤ Platinum)
+- ✅ Supabase PostgreSQL database with event data
+- ✅ Beautiful card-based UI
+- ✅ Responsive & mobile-friendly layout
+- ✅ Secure page routing (only accessible if logged in)
+
+
+## Instructions To Run
 First, run the development server:
 
 ```bash
@@ -16,21 +37,20 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧪 Demo User Credentials (One For Each Tier)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Email                 | Password    | Tier     |
+|-----------------------|-------------|----------|
+| normal@gmail.com      | Clerk@123   | Free     |
+| silver@gmail.com      | Clerk@123   | Silver   |
+| gold@gmail.com        | Clerk@123   | Gold     |
+| platinum@gmail.com    | Clerk@123   | Platinum |
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## Deployment Link:
+https://task-psypher-cp3t.vercel.app/
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## My Details: 
+### Gmail: satyasai21e@gmail.com
+### Name : Koyya Satyasai
+### Github: https://github.com/SatyaSai21
