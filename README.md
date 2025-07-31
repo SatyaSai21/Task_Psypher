@@ -41,10 +41,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 | Email                 | Password    | Tier     |
 |-----------------------|-------------|----------|
-| normal@gmail.com      | Clerk@123   | Free     |
-| silver@gmail.com      | Clerk@123   | Silver   |
-| gold@gmail.com        | Clerk@123   | Gold     |
-| platinum@gmail.com    | Clerk@123   | Platinum |
+| normal@gmail.com      | Clerk@81    | Free     |
+| silver@gmail.com      | Clerk@81    | Silver   |
+| gold@gmail.com        | Clerk@81    | Gold     |
+| platinum@gmail.com    | Clerk@81    | Platinum |
 
 
 ## Deployment Link:
